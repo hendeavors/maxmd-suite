@@ -1,0 +1,28 @@
+{
+    "name": "endeavors/maxmd-suite",
+    "description": "Provide an easy api to integrate with maxmd",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Rodriguez",
+            "email": "adam_rodriguez@bitbucket.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/hendeavors/maxmd-support.git"
+        }
+    ],
+    "require": {
+        "endeavors/maxmd-registration": "0.2.*@dev",
+        "endeavors/maxmd-message": "0.1.*@dev"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
