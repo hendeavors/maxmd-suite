@@ -19,10 +19,5 @@
     "require": {
         "endeavors/maxmd-registration": "0.2.*@dev",
         "endeavors/maxmd-message": "0.1.*@dev"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.1.x-dev"
-        }
     }
 }
