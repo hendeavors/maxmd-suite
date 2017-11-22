@@ -17,8 +17,9 @@
         }
     ],
     "require": {
-        "endeavors/maxmd-registration": "2.0.*@dev",
-        "endeavors/maxmd-message": "1.1.*@dev"
+        "endeavors/maxmd-registration": "dev-develop",
+        "endeavors/maxmd-message": "dev-develop",
+        "endeavors/maxmd-support": "dev-develop as 0.1.0"
     },
     "extra": {
         "branch-alias": {
