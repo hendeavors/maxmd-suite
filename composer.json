@@ -13,11 +13,11 @@
     "require": {
         "endeavors/maxmd-support": "1.0.*",
         "endeavors/maxmd-registration": "1.0.*",
-        "endeavors/maxmd-message": "1.1.*"
+        "endeavors/maxmd-message": "2.0.*"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.2-dev"
+            "dev-master": "0.3-dev"
         }
     }
 }
