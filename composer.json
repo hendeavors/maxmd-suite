@@ -1,6 +1,6 @@
 {
     "name": "endeavors/maxmd-suite",
-    "description": "Provide an easy api to integrate with maxmd",
+    "description": "Provide an easy api to integrate with maxmd using php",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -19,7 +19,8 @@
     "require": {
         "endeavors/maxmd-registration": "dev-develop",
         "endeavors/maxmd-message": "dev-develop",
-        "endeavors/maxmd-support": "dev-develop as 0.1.0"
+        "endeavors/maxmd-support": "dev-develop as 0.1.0",
+        "endeavors/maxmd-directutil": "dev-develop"
     },
     "extra": {
         "branch-alias": {
