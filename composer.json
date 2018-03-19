@@ -14,7 +14,7 @@
         "endeavors/maxmd-support": "^1.0",
         "endeavors/maxmd-registration": "1.0.*",
         "endeavors/maxmd-directutil" : "^0.1",
-        "endeavors/maxmd-message": "2.1.*"
+        "endeavors/maxmd-message": "2.1.8"
     },
     "extra": {
         "branch-alias": {
