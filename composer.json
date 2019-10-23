@@ -12,13 +12,13 @@
     "minimum-stability": "dev",
     "require": {
         "endeavors/maxmd-support": "^1.0",
-        "endeavors/maxmd-registration": "^1.1",
+        "endeavors/maxmd-registration": "^2.0",
         "endeavors/maxmd-directutil" : "^0.2",
         "endeavors/maxmd-message": "^3.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.6-dev"
+            "dev-master": "0.7-dev"
         }
     },
     "prefer-stable": true
