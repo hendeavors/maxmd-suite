@@ -13,10 +13,6 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/bpedroza/maxmd-support.git"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/bpedroza/maxmd-registration.git"
         },
         {
@@ -29,16 +25,19 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/bpedroza/maxmd-apiauth.git"
+            "url": "https://github.com/bpedroza/maxmd-directutil.git"
         }
     ],
     "require": {
+        "endeavors/maxmd-support": "~1.4.0",
         "endeavors/maxmd-registration": "dev-version-updates",
+        "endeavors/maxmd-directutil" : "dev-version-updates",
         "endeavors/maxmd-message": "dev-version-updates"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "0.7-dev"
         }
-    }
+    },
+    "prefer-stable": true
 }
