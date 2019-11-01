@@ -11,9 +11,9 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "endeavors/maxmd-support": "^1.0",
-        "endeavors/maxmd-registration": "^2.0",
-        "endeavors/maxmd-directutil" : "^0.2",
+        "endeavors/maxmd-support": "~1.4.0",
+        "endeavors/maxmd-registration": "^3.0",
+        "endeavors/maxmd-directutil" : "0.3.*",
         "endeavors/maxmd-message": "^3.0"
     },
     "extra": {
