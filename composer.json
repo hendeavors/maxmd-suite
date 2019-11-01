@@ -10,21 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/bpedroza/maxmd-message.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/bpedroza/maxmd-directutil.git"
-        }
-    ],
     "require": {
         "endeavors/maxmd-support": "~1.4.0",
         "endeavors/maxmd-registration": "^3.0",
-        "endeavors/maxmd-directutil" : "dev-version-updates",
-        "endeavors/maxmd-message": "dev-version-updates"
+        "endeavors/maxmd-directutil" : "0.3.*",
+        "endeavors/maxmd-message": "^3.0"
     },
     "extra": {
         "branch-alias": {
