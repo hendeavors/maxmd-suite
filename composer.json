@@ -16,10 +16,5 @@
         "endeavors/maxmd-directutil" : "0.3.*",
         "endeavors/maxmd-message": "^3.0"
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.7-dev"
-        }
-    },
     "prefer-stable": true
 }
